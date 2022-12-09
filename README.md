@@ -27,3 +27,14 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Screenshot
+
+Login
+![Login](https://github.com/salustianogonzalesjr/bookstore-vue/blob/main/src/assets/images/login.png)
+
+Register
+![Register](https://github.com/salustianogonzalesjr/bookstore-vue/blob/main/src/assets/images/register.png)
+
+Dashboard
+![Dashboard](https://github.com/salustianogonzalesjr/bookstore-vue/blob/main/src/assets/images/listBooks.png)
