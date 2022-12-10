@@ -14,7 +14,7 @@
 </script>
 
 <template>
-  <div class="mt-12">
+  <div class="mt-20">
     <form action="" class="max-w-md mx-auto p-4 bg-white shadow-md rounded-md" @submit.prevent="storeBook(form)">
       <div class="space-y-6">
 

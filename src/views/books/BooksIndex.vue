@@ -10,9 +10,8 @@
 
 </script>
 
-
 <template>
-  <div class="mt-12">
+  <div class="mt-20">
 
     <div class="flex justify-end p-2">
         <RouterLink :to="{ name: 'BooksCreate'}" class="px-4 py-2 bg-indigo-600 hover:bg-indigo-800 rounded text-white" >
