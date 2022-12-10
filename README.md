@@ -37,4 +37,4 @@ Register
 ![Register](https://github.com/salustianogonzalesjr/bookstore-vue/blob/main/src/assets/images/register.png)
 
 Dashboard
-![Dashboard](https://github.com/salustianogonzalesjr/bookstore-vue/blob/main/src/assets/images/listBooks.png)
+![Dashboard](https://github.com/salustianogonzalesjr/bookstore-vue/blob/main/src/assets/images/books.png)
