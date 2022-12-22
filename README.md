@@ -1,6 +1,7 @@
 # bookstore-vue
-
 This template should help get you started developing with Vue 3 in Vite.
+
+This is the frontend of the bookstore api https://github.com/salustianogonzalesjr/bookstore-api
 
 ## Recommended IDE Setup
 
